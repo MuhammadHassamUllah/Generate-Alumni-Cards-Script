@@ -14,4 +14,4 @@ npm install
 
 make sure that the alumni csv is placed in /Generate-Alumni-Cards-Script with name input_data.csv
 
-All the pdf would be created in cards folder. 
+All the pdf's of students card  would be created in cards folder. 

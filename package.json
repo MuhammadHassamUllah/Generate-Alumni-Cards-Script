@@ -1,0 +1,20 @@
+{
+  "name": "alumni_card_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Hassam Shoaib",
+  "license": "ISC",
+  "dependencies": {
+    "csv-array": "0.0.22",
+    "fast-csv": "^2.4.1",
+    "fs": "0.0.1-security",
+    "fs-extra": "^7.0.0",
+    "handlebars": "^4.0.12",
+    "pdfkit": "^0.8.3",
+    "puppeteer": "^1.8.0"
+  }
+}
